@@ -21,3 +21,10 @@ body:
     placeholder: "Nipu, Pencucian uang, Transaksi segitiga, dll..."
   validations:
     required: true
+- type: textarea
+  id: bukti
+  attributes:
+    label: "Bukti"
+    description: "Sertakan bukti (jika ada)"
+  validations:
+    required: false
