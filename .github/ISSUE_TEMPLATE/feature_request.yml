@@ -11,7 +11,5 @@ body:
     description: "Tulis nomor yang akan diblokir"
     placeholder: |
       08xxx
-    value: |
-      
   validations:
     required: true
