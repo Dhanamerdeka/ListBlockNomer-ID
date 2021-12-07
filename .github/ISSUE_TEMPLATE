@@ -1,0 +1,7 @@
+name: "Blokir Nomor"
+description: "Blokir nomor yang diinginkan"
+title: "[Block] 08xx"
+labels: "Blokir Request"
+assignees: ""
+issue_body: true
+body:
