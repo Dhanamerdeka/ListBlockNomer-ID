@@ -2,7 +2,7 @@ name: "Blokir Nomor"
 description: "Blokir nomor yang diinginkan"
 title: "[Block] 08xx"
 labels: "Request Blokir"
-assignees: ""
+assignees: "Dhanamerdeka"
 body:
 - type: textarea
   id: nohp
