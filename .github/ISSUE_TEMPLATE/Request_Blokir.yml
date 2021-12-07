@@ -19,6 +19,5 @@ body:
     label: "Alasan"
     description: "Tulis alasan kenapa no harus di block"
     placeholder: "Nipu, Pencucian uang, Transaksi segitiga, dll..."
-    value: ""
   validations:
     required: true
