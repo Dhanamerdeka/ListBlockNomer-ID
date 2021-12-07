@@ -3,7 +3,6 @@ description: "Blokir nomor yang diinginkan"
 title: "[Block] 08xx"
 labels: "Request Blokir"
 assignees: ""
-issue_body: true
 body:
 - type: textarea
   id: nohp
