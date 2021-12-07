@@ -1,33 +1,18 @@
 name: "Blokir Nomor"
 description: "Blokir nomor yang diinginkan"
 title: "[Block] 08xx"
-labels: "Blokir Request"
+labels: "Request Blokir"
 assignees: ""
-issue_body: true
+issue_body: false
 body:
 - type: textarea
+  id: nohp
   attributes:
     label: "Nomor"
     description: "Tulis nomor yang akan diblokir"
     placeholder: |
       
     value: |
-      
+      20
   validations:
     required: true
-- type: input
-  attributes:
-    label: "Alasan"
-    description: ""
-    placeholder: ""
-    value: ""
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: "Bukti"
-    description: "lampirkan SS jika ada,"
-    placeholder: ""
-    value: ""
-  validations:
-    required: false
