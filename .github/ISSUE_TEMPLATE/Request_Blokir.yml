@@ -25,6 +25,6 @@ body:
   id: bukti
   attributes:
     label: "Bukti"
-    description: "Sertakan bukti (jika ada)"
+    description: "Sertakan bukti seperti ss (jika ada) *Drag and drop ke form untuk upload"
   validations:
     required: false
