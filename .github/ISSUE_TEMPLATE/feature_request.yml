@@ -3,6 +3,7 @@ description: "Blokir nomor yang diinginkan"
 title: "[Block] 08xx"
 labels: "Request Blokir"
 assignees: ""
+issue_body: true
 body:
 - type: textarea
   id: nohp
@@ -10,7 +11,7 @@ body:
     label: "Nomor"
     description: "Tulis nomor yang akan diblokir"
     placeholder: |
-      
+      08xxx
     value: |
       20
   validations:
