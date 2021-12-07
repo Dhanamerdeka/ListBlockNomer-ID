@@ -5,3 +5,29 @@ labels: "Blokir Request"
 assignees: ""
 issue_body: true
 body:
+- type: textarea
+  attributes:
+    label: "Nomor"
+    description: "Tulis nomor yang akan diblokir"
+    placeholder: |
+      
+    value: |
+      
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: "Alasan"
+    description: ""
+    placeholder: ""
+    value: ""
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: "Bukti"
+    description: "lampirkan SS jika ada,"
+    placeholder: ""
+    value: ""
+  validations:
+    required: false
