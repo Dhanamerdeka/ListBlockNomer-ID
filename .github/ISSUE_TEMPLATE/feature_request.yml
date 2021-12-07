@@ -1,7 +1,7 @@
 name: "Blokir Nomor"
 description: "Blokir nomor yang diinginkan"
 title: "[Block] 08xx"
-labels: "Request Blokir"
+labels: "Blokir Request"
 assignees: "Dhanamerdeka"
 body:
 - type: textarea
@@ -12,6 +12,6 @@ body:
     placeholder: |
       08xxx
     value: |
-      20
+      
   validations:
     required: true
